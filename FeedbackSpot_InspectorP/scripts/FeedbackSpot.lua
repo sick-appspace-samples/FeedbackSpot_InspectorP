@@ -32,7 +32,8 @@ local function main()
 end
 Script.register('Engine.OnStarted', main)
 
-local function processImage(im, _)
+---@param im Image
+local function processImage(im)
   viewer:clear()
   viewer:addImage(im)
   viewer:present()

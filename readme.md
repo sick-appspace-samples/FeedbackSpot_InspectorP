@@ -1,7 +1,9 @@
 ## FeedbackSpot_InspectorP
+
 A how-to for using the feedback spot LED on a InspectorP device.
 
 ### How to Run
+
 A connected InpspectorP device with internal illumination is necessary to run this sample.
 InspectorP63x: Alternate between taking live images and flashing green and red feedback spots.
 InspectorP64x/65x: Alternate between taking live images and flashing green feedback spot.
@@ -10,7 +12,9 @@ Set a breakpoint on the first row inside the main or processImage function to de
 See the results in the image viewer on the DevicePage.
 
 ### More Information
+
 See the tutorial "Audio-visual Feedback InspectorP"
 
 ### Topics
-Device, InspectorP, Hardware, Sample, SICK-AppSpace
+
+device, inspectorp, hardware, sample, sick-appspace
